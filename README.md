@@ -1,5 +1,9 @@
 # <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" align="center" width="60" height="60"> Cypress - HR system E2E tests 
 
+<p align="center">
+<img src="hr-system.gif"  width="100%" height="400">
+</p>
+
 ## Installation
 
 Clone the repository
